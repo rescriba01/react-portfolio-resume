@@ -14,6 +14,8 @@ This project is cloned from [https://github.com/nordicgiant2/react-nice-resume](
 
 This project forks from [https://github.com/tbakerx/react-resume-template](https://github.com/tbakerx/react-resume-template), I made some modifications and adjustments, thanks to the [author](https://github.com/tbakerx).
 
+*Since this site is a clone, I'm not sure if this README.md should be updated completely. I'll need to revisit.*
+
 ![img](https://github.com/nordicgiant2/react-nice-resume/blob/master/public/images/img2.jpg?raw=true)
 
 ## Run Project
