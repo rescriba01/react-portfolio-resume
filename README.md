@@ -22,6 +22,8 @@ This project forks from [https://github.com/tbakerx/react-resume-template](https
 npm i
 npm start
 ```
+** If `npm start` throws you an error it may be due to outdated packages. I was able to resolve the issue following the instructions in [this](https://reactgo.com/update-npm-packages-latest/) link **
+
 
 ### 3. BUild
 ```shell
