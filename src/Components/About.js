@@ -4,7 +4,7 @@ class About extends Component {
   render() {
 
     if(this.props.data){
-      var name = this.props.data.name;
+      var name = this.props.data.aboutname;
       var profilepic= "images/"+this.props.data.image;
       var bio = this.props.data.bio;
       var street = this.props.data.address.street;
@@ -31,10 +31,10 @@ class About extends Component {
                   <h2>Contact Details</h2>
                   <p className="address">
 						   <span>{name}</span><br />
-						   <span>{street}<br />
-						         {city} {state}, {zip}
+						   <span>{/*{street}<br />*/}
+						         {/*{city}*/} {state}{/*, {zip}*/}
                    </span><br />
-						   <span>{phone}</span><br />
+						   {/*<span>{phone}</span><br />*/}
                      <span>{email}</span>
 					   </p>
                </div>
