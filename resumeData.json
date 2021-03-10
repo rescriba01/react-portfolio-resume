@@ -1,22 +1,23 @@
 {
   "main": {
     "name":"Welcome to my Scribbles",
-    "description":"**This page is currently under development and is subject to change** I am a web development engineer and I am learning to use react to develop pages. I currently use Python to collect and correlate data. This project is based on a resume template and is being used as a portfolio home page and resume page",
+    "description":"I am a web development engineer currently learning to use React. I use Bootstrap CSS framework and Python to collect and correlate data. You can find more of my work here so please look around or follow me on one of sites below.",
     "image":"personalprofile.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "aboutname": "Rafael Escribano",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
+    "email": "r.escribano1@gmail.com",
     "phone": "555-555-5555",
     "github":"https://github.com/nordicgiant2/react-nice-resume",
     "project":"https://github.com/nordicgiant2/react-nice-resume",
     "address":{
       "street":"(Your Street)",
       "city":"(Your City)",
-      "state":"(Your State)",
+      "state":"New Hampshire",
       "zip": "(Your Zip/Postal Code)"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "https://rescriba01.github.io/react-portfolio-resume/",
+    "resumedownload":"",
     "social":[
       {
         "name":"facebook",
@@ -49,10 +50,10 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Southern New Hampshire University",
+        "degree":"Bachelor of Science",
+        "graduated":"Expected Date: June 2023",
+        "description":"Though most of what I know I've was self-taught, going back to school has made me a better researcher. It also helped show me how all the tools and languages I work with are interconnected."
       },
       {
         "school":"School #1 Maybe College?",
@@ -63,9 +64,9 @@
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
+        "company":"525 Creative",
+        "title":"Data Analyst & SEO Specialist",
+        "years":"August 2020 - February 2021",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       },
       {
@@ -109,16 +110,16 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"FLIR Technical Support",
+        "category":"Tech Support Portal for FLIR Systems Inc.",
+        "image":"flir-support.png",
+        "url":"https://flir--tst1.custhelp.com/app/home"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"ShotSpotter Inc.",
+        "category":"Gunshot Detection Solutions",
+        "image":"shotspotter-home.png",
+        "url":"https://www.shotspotter.com/"
       },
       {
         "title":"Original Thai Food",
