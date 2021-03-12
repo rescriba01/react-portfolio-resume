@@ -18,7 +18,7 @@ class App extends Component {
       resumeData: {}
     };
 
-    ReactGA.initialize(''); // todo: Add your own GA tracking here
+    ReactGA.initialize('G-3H0XXFYCDB');
     ReactGA.pageview(window.location.pathname);
 
   }
