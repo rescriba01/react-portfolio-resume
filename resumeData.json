@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Welcome to my Scribbles",
-    "description":"I am a web development engineer currently learning to use React. I use Bootstrap CSS framework and Python to collect and correlate data. You can find more of my work here so please look around or follow me on one of sites below.",
+    "description":"I am a web development engineer currently learning to use React. I use Bootstrap CSS framework and Python to collect and correlate data. You can find more of my work here so please look around or follow me on one of sites below",
     "image":"personalprofile.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "aboutname": "Rafael Escribano",
@@ -17,7 +17,7 @@
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "https://rescriba01.github.io/react-portfolio-resume/",
-    "resumedownload":"",
+    "resumedownload":"https://drive.google.com/file/d/1SVVnKfyF2Dv5ACCATjmvXvF_K0C1pZgJ/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -56,10 +56,10 @@
         "description":"Though most of what I know I've was self-taught, going back to school has made me a better researcher. It also helped show me how all the tools and languages I work with are interconnected."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"School of Hard Knocks",
+        "degree":"Self-taught HTML, CSS, JavaScript, and general web development",
+        "graduated":"Ever Learning",
+        "description":"This is probably the most difficult choice to make when learning. The task is more difficult when you have a ADD/ADHD and don't really learn things the way it is outlined by all the hundreds of tutorials out in the interwebs now. However, the reward is that much greater when you begin to realize the fruits of your labors."
       }
     ],
     "work":[
@@ -67,27 +67,27 @@
         "company":"525 Creative",
         "title":"Data Analyst & SEO Specialist",
         "years":"August 2020 - February 2021",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Helped build, maintain, and customize WordPress site, child themes, and pages. Backed up, exported, and migrated WordPress Instances. Interfaced weekly with stakeholders to align on priority business requirements. Implemented stakeholder feedback in an iterative process until settled on final changes. Utilized Agile/Scrum process framework to meet objectives. Familiarity with Advanced Custom Fields and Custom Post Types. Constant monitoring of WordPress Security using Securi and WordFence. Helped consolidate numerous templates into reusable blocks using a Custom Post Type-like feature thus allowing me to create different modules based on repeated design patterns and business requirements.\n●\tFamiliarity with WordPress page builders such as Elementor and WPBakery. Tested and implemented necessary plugin when required. Implemented Technical, On-Page, and off-page optimizations using SEO tools such as ScreamingFrog, Google Analytics, Google Lighthouse, and others allowing me to optimize sites improve page speed and search engine results. Research of competition and keywords to help build a strategy to successfully increase the organic visits to a site."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"FLIR Systems Inc.",
+        "title":"Webmaster/General Bug fixer",
+        "years":"January 2019 - Current",
+        "description":"I lead front-end development for refactoring and re-design of Oracle Service Cloud (OSvC) CRM using Bootstrap framework across all sites to align with the company brand. Which is to say I am the sole person on my team (Technical Support) who was able to dabble in HTML, CSS, and JavaScript enough to make changes to a platform that the company all but abandoned. I ended up doing well enough that they removed me from my normal day-to-day duties and made me the webmaster full-time. I employed an Agile process framework to organize and meet objectives. I document changes that helped me to implement a monthly audit for maintainability. I became certified in and the fully utilized Google Analytics to understand areas of improvement for the site and pages using technical SEO strategies. This helped increase new user traffic by 38% based on Google Analytics data starting when alignment of company branding across all interfaces began. I lead a team of contracted developers from an agency hired to implement a Single Sign-On policy that would consist of migrating our existing database of over 500,000 users into Azure database system seamlessly. I Utilize C#, .NET, PHP, HTML, CSS, and JavaScript languages to help work across different company services such as a product registration service. Implemented version control to track changes using a combination of git for the site, Team Foundation Server (TFS) for hosted assets, and Azure DevOps for automated releases across all 10 interfaces."
       }
     ],
     "skills":[
       {
         "name":"Python",
-        "level":"60%"
-      },
-      {
-        "name":"VueJs",
-        "level":"55%"
+        "level":"78%"
       },
       {
         "name":"ReactJs",
-        "level":"50%"
+        "level":"45%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"70%"
       },
       {
         "name":"CSS",
@@ -95,15 +95,11 @@
       },
       {
         "name":"PHP",
-        "level":"80%"
+        "level":"60%"
       },
       {
-        "name":"Swift",
-        "level":"50%"
-      },
-      {
-        "name":"JAVA",
-        "level":"80%"
+        "name":"C#",
+        "level":"55%"
       }
     ]
   },
