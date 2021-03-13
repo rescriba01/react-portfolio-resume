@@ -30,6 +30,16 @@ e. Others
 @import url("fontello/css/fontello.css");
 @import url("font-awesome/css/font-awesome.min.css");
 
+/* ------------------------------------------------------------------ */
+/* a. Webfonts and Icon fonts
+ ------------------------------------------------------------------ */
+/**
+Color Theme
+Primary: Orange = #fe6928
+Secondary: Navy Blue = #121e6b
+Tertiary: Grays = grayscale
+ */
+
 /* ------------------------------------------------------------------
 /* b. Reset
       Adapted from:

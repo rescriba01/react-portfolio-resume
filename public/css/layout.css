@@ -156,7 +156,7 @@ header .scrolldown a:hover {
 }
 
 .opaque {
-    background-color: #333;
+    background-color: #8b949a;
 }
 
 /* hide toggle button */
@@ -1202,7 +1202,7 @@ footer .social-links li:first-child {
     display: block;
     width: 60px;
     height: 60px;
-    background-color: #525252;
+    background-color: #fe6928;
 
     -webkit-transition: all 0.2s ease-in-out;
     -moz-transition: all 0.2s ease-in-out;
@@ -1217,7 +1217,7 @@ footer .social-links li:first-child {
 }
 
 #go-top a:hover {
-    background-color: #0F9095;
+    background-color: #121e6b;
 }
 
 
