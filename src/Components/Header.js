@@ -11,7 +11,7 @@ class Header extends Component {
             var description = this.props.data.description;
             var city = this.props.data.address.city;
             var networks = this.props.data.social.map(function (network) {
-                return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
+                return <li key={network.name}><a href={network.url} target={network.target} rel={network.rel}><i className={network.className}></i></a></li>
             })
         }
 
@@ -36,7 +36,14 @@ class Header extends Component {
                     <div className="banner-text">
                         <h1 className="responsive-headline">{name}</h1>
                         <h3>{description}:</h3>
-                        {/*<hr/>*/}
+                        <hr/>
+                        <div className="row">
+                            <div className="twelve columns">
+                                <ul className="social">
+                                    {networks}
+                                </ul>
+                            </div>
+                        </div>
                         {/*<ul className="social">*/}
                         {/*    <a href={project} className="button btn project-btn"><i*/}
                         {/*        className="fa fa-book"></i>Project</a>*/}
