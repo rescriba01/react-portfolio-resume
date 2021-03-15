@@ -84,7 +84,7 @@ header .banner-text hr {
     width: 60%;
     margin: 18px auto 24px auto;
     border-color: #2F2D2E;
-    border-color: rgba(150, 150, 150, .1);
+    /*border-color: rgba(150, 150, 150, .1);*/
 }
 
 /* header social links */
@@ -101,11 +101,11 @@ header .social li {
 }
 
 header .social li a {
-    color: #fff;
+    color: #121e6b;
 }
 
 header .social li a:hover {
-    color: #0762f9;
+    color: #fe6928;
 }
 
 /* scrolldown link */

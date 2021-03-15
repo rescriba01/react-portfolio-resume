@@ -1,139 +1,135 @@
 {
   "main": {
-    "name":"Welcome to my Scribbles",
-    "description":"I am a web development engineer currently learning to use React. I use Bootstrap CSS framework and Python to collect and correlate data. You can find more of my work here so please look around or follow me on one of sites below",
-    "image":"personalprofile.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "name": "Welcome to my Scribbles",
+    "description": "I am a web development engineer currently learning to use React. I use Bootstrap CSS framework and Python to collect and correlate data. You can find more of my work here so please look around or follow me on one of sites below",
+    "image": "personalprofile.jpg",
+    "bio": "A little about myself... these bio's are always difficult for me, so I guess that's one thing I can list. I am 2 years into working as a Webmaster for FLIR Technical Support portal, aka the Support Portal, and currently working on the second version of the site. This is a role that I fell into and never expected I'd have the pleasure of doing full-time. I am proud to say the first version of it's re-design was so successful that we were able to onboard Technical Support Groups for other products throughout the company. I have a better grasp of the MVC framework it's built on and that understanding made me want to become a full-stack developer. I am currently back in school pursuing my Bachelors of Science for IT with a concentration on Software Development. I am looking to build competence in my stack which is currently React for Front-end, Python for Back-end, and MySQL for RDBMS. I am 'eye-balling' AWS for infrastructure and React Native for cross-platform. These are my focus and I'm currently comfortable with Python and, as evidenced by this site, I am currently building up my knowledge of React and Vanilla JavaScript.",
     "aboutname": "Rafael Escribano",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage": "Want to collaborate or have questions? Feel free to contact me.",
     "email": "r.escribano1@gmail.com",
     "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
-    "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"New Hampshire",
+    "github": "https://github.com/nordicgiant2/react-nice-resume",
+    "project": "https://github.com/nordicgiant2/react-nice-resume",
+    "address": {
+      "street": "(Your Street)",
+      "city": "(Your City)",
+      "state": "New Hampshire",
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "https://rescriba01.github.io/react-portfolio-resume/",
-    "resumedownload":"https://drive.google.com/file/d/1SVVnKfyF2Dv5ACCATjmvXvF_K0C1pZgJ/view?usp=sharing",
-    "social":[
+    "resumedownload": "https://drive.google.com/file/d/1SVVnKfyF2Dv5ACCATjmvXvF_K0C1pZgJ/view?usp=sharing",
+    "social": [
       {
-        "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-facebook"
+        "name": "facebook",
+        "url": "#",
+        "target": "_blank",
+        "rel": "noreferrer noopener",
+        "className": "fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
+        "name": "twitter",
+        "url": "https://twitter.com/scribble_man100",
+        "target": "_blank",
+        "rel": "noreferrer noopener",
+        "className": "fa fa-twitter"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/rafaelescribano/",
+        "target": "_blank",
+        "rel": "noreferrer noopener",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
+        "name": "instagram",
+        "url": "https://www.instagram.com/rescribble/",
+        "target": "_blank",
+        "rel": "noreferrer noopener",
+        "className": "fa fa-instagram"
       },
       {
-        "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "https://github.com/rescriba01",
+        "target": "_blank",
+        "rel": "noreferrer noopener",
+        "className": "fa fa-github"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
-    "education":[
+  "resume": {
+    "skillmessage": "\"I am always doing that which I cannot do, in order that I may learn how to do it.\"",
+    "education": [
       {
-        "school":"Southern New Hampshire University",
-        "degree":"Bachelor of Science",
-        "graduated":"Expected Date: June 2023",
-        "description":"Though most of what I know I've was self-taught, going back to school has made me a better researcher. It also helped show me how all the tools and languages I work with are interconnected."
+        "school": "Southern New Hampshire University",
+        "degree": "Bachelor of Science",
+        "graduated": "Expected Date: June 2023",
+        "description": "Though most of what I know I've was self-taught, going back to school has made me a better researcher. It also helped show me how all the tools and languages I work with are interconnected."
       },
       {
-        "school":"School of Hard Knocks",
-        "degree":"Self-taught HTML, CSS, JavaScript, and general web development",
-        "graduated":"Ever Learning",
-        "description":"This is probably the most difficult choice to make when learning. The task is more difficult when you have a ADD/ADHD and don't really learn things the way it is outlined by all the hundreds of tutorials out in the interwebs now. However, the reward is that much greater when you begin to realize the fruits of your labors."
+        "school": "School of Hard Knocks",
+        "degree": "Self-taught HTML, CSS, JavaScript, and general web development",
+        "graduated": "Ever Learning",
+        "description": "This is probably the most difficult choice to make when learning. The task is more difficult when you have a ADD/ADHD and don't really learn things the way it is outlined by all the hundreds of tutorials out in the interwebs now. However, the reward is that much greater when you begin to realize the fruits of your labors."
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"525 Creative",
-        "title":"Data Analyst & SEO Specialist",
-        "years":"August 2020 - February 2021",
-        "description":"Helped build, maintain, and customize WordPress site, child themes, and pages. Backed up, exported, and migrated WordPress Instances. Interfaced weekly with stakeholders to align on priority business requirements. Implemented stakeholder feedback in an iterative process until settled on final changes. Utilized Agile/Scrum process framework to meet objectives. Familiarity with Advanced Custom Fields and Custom Post Types. Constant monitoring of WordPress Security using Securi and WordFence. Helped consolidate numerous templates into reusable blocks using a Custom Post Type-like feature thus allowing me to create different modules based on repeated design patterns and business requirements.\n●\tFamiliarity with WordPress page builders such as Elementor and WPBakery. Tested and implemented necessary plugin when required. Implemented Technical, On-Page, and off-page optimizations using SEO tools such as ScreamingFrog, Google Analytics, Google Lighthouse, and others allowing me to optimize sites improve page speed and search engine results. Research of competition and keywords to help build a strategy to successfully increase the organic visits to a site."
+        "company": "525 Creative",
+        "title": "Data Analyst & SEO Specialist",
+        "years": "August 2020 - February 2021",
+        "description": "Helped build, maintain, and customize WordPress site, child themes, and pages. Backed up, exported, and migrated WordPress Instances. Interfaced weekly with stakeholders to align on priority business requirements. Implemented stakeholder feedback in an iterative process until settled on final changes. Utilized Agile/Scrum process framework to meet objectives. Familiarity with Advanced Custom Fields and Custom Post Types. Constant monitoring of WordPress Security using Securi and WordFence. Helped to consolidate numerous templates into reusable blocks using a Custom Post Type-like feature thus allowing me to create different modules based on repeated design patterns and business requirements. Familiarity with WordPress page builders such as Elementor and WPBakery. Tested and implemented necessary plugin when required. Implemented Technical, On-Page, and off-page optimizations using SEO tools such as ScreamingFrog, Google Analytics, Google Lighthouse, and others allowing me to optimize sites improve page speed and search engine results. Research of competition and keywords to help build a strategy to successfully increase the organic visits to a site."
       },
       {
-        "company":"FLIR Systems Inc.",
-        "title":"Webmaster/General Bug fixer",
-        "years":"January 2019 - Current",
-        "description":"I lead front-end development for refactoring and re-design of Oracle Service Cloud (OSvC) CRM using Bootstrap framework across all sites to align with the company brand. Which is to say I am the sole person on my team (Technical Support) who was able to dabble in HTML, CSS, and JavaScript enough to make changes to a platform that the company all but abandoned. I ended up doing well enough that they removed me from my normal day-to-day duties and made me the webmaster full-time. I employed an Agile process framework to organize and meet objectives. I document changes that helped me to implement a monthly audit for maintainability. I became certified in and the fully utilized Google Analytics to understand areas of improvement for the site and pages using technical SEO strategies. This helped increase new user traffic by 38% based on Google Analytics data starting when alignment of company branding across all interfaces began. I lead a team of contracted developers from an agency hired to implement a Single Sign-On policy that would consist of migrating our existing database of over 500,000 users into Azure database system seamlessly. I Utilize C#, .NET, PHP, HTML, CSS, and JavaScript languages to help work across different company services such as a product registration service. Implemented version control to track changes using a combination of git for the site, Team Foundation Server (TFS) for hosted assets, and Azure DevOps for automated releases across all 10 interfaces."
+        "company": "FLIR Systems Inc.",
+        "title": "Webmaster/General Bug fixer",
+        "years": "January 2019 - Current",
+        "description": "I started off in Technical Support for 'Test and Measurement' products. General equipment contractors or engineers would use to measure electricity, moisture(or relative dryness), pH, Conductivity, etc. I'm proud of this as I learned a lot of interesting things and worked with users concerning their interesting applications. A shift in the organization led to me volunteering to 'refactor' the  front-end of a technical Support website/portal that I never really knew we had. It was an Oracle product built on the MVC framework. I knew nothing about the MVC framework but I did know HTML, CSS, JS, JQuery and a bit of PHP so I was ready for this undertaking. I lead front-end development for refactoring and re-design of Oracle Service Cloud (OSvC) CRM using Bootstrap framework across all sites to align with the company brand. Which is to say I am the sole person on my team (Technical Support) who was able to dabble in HTML, CSS, and JavaScript enough to make changes to a platform that the company all but abandoned. I ended up doing well enough that they removed me from my normal day-to-day duties and made me the webmaster full-time. I employed an Agile process framework to organize and meet objectives. I document changes that helped me to implement a monthly audit for maintainability. I became certified in and the fully utilized Google Analytics to understand areas of improvement for the site and pages using technical SEO strategies. This helped increase new user traffic by 38% based on Google Analytics data starting when alignment of company branding across all interfaces began. I lead a team of contracted developers from an agency hired to implement a Single Sign-On policy that would consist of migrating our existing database of over 500,000 users into Azure database system seamlessly. I Utilize C#, .NET, PHP, HTML, CSS, and JavaScript languages to help work across different company services such as a product registration service. Implemented version control to track changes using a combination of git for the site, Team Foundation Server (TFS) for hosted assets, and Azure DevOps for automated releases across all 10 interfaces."
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"Python",
-        "level":"78%"
+        "name": "Python",
+        "level": "78%"
       },
       {
-        "name":"ReactJs",
-        "level":"45%"
+        "name": "ReactJs",
+        "level": "45%"
       },
       {
-        "name":"JavaScript",
-        "level":"70%"
+        "name": "JavaScript",
+        "level": "70%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name": "CSS",
+        "level": "90%"
       },
       {
-        "name":"PHP",
-        "level":"60%"
+        "name": "PHP",
+        "level": "60%"
       },
       {
-        "name":"C#",
-        "level":"55%"
+        "name": "C#",
+        "level": "55%"
+      },
+      {
+        "name": "MVC Framework",
+        "level": "35%"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"FLIR Technical Support",
-        "category":"Tech Support Portal for FLIR Systems Inc.",
-        "image":"flir-support.png",
-        "url":"https://flir--tst1.custhelp.com/app/home"
+        "title": "FLIR Technical Support",
+        "category": "Tech Support Portal for FLIR Systems Inc.",
+        "image": "flir-support.png",
+        "url": "https://flir--tst1.custhelp.com/app/home"
       },
       {
-        "title":"ShotSpotter Inc.",
-        "category":"Gunshot Detection Solutions",
-        "image":"shotspotter-home.png",
-        "url":"https://www.shotspotter.com/"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title": "ShotSpotter Inc.",
+        "category": "Gunshot Detection Solutions",
+        "image": "shotspotter-home.png",
+        "url": "https://www.shotspotter.com/"
       }
     ]
   }
