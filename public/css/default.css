@@ -7,16 +7,17 @@
 
 TOC:
 a. Webfonts and Icon fonts
-b. Reset
-c. Default Styles
+b. Color Palette
+c. Reset
+d. Default Styles
    1. Basic
    2. Typography
    3. Links
    4. Images
    5. Buttons
    6. Forms
-d. Grid
-e. Others
+e. Grid
+f. Others
    1. Clearing
    2. Misc
 
@@ -31,17 +32,19 @@ e. Others
 @import url("font-awesome/css/font-awesome.min.css");
 
 /* ------------------------------------------------------------------ */
-/* a. Webfonts and Icon fonts
+/* b. Color Palette
  ------------------------------------------------------------------ */
 /**
 Color Theme
-Primary: Orange = #fe6928
-Secondary: Navy Blue = #121e6b
+Primary: Midnight Blue = #121e6b
+Secondary: Orange Red = #fe6928
 Tertiary: Grays = grayscale
  */
 
-/* ------------------------------------------------------------------
-/* b. Reset
+/* ------------------------------------------------------------------ */
+/* c. Reset
+ ------------------------------------------------------------------ */
+/**
       Adapted from:
       Normalize.css - https://github.com/necolas/normalize.css/
       HTML5 Doctor Reset - html5doctor.com/html-5-reset-stylesheet/
@@ -130,7 +133,9 @@ table {
 
 
 /* ------------------------------------------------------------------ */
-/* c. Default and Basic Styles
+/* d. Default and Basic Styles
+ ------------------------------------------------------------------ */
+/**
       Adapted from:
       Skeleton CSS Framework - http://www.getskeleton.com/
       Typeplate Typographic Starter Kit - http://typeplate.com/
@@ -595,7 +600,7 @@ input[type="radio"] {
 input[type="checkbox"] { display: inline; }
 
 /* ------------------------------------------------------------------ */
-/* d. Grid
+/* e. Grid
 ---------------------------------------------------------------------
    gutter = 40px.
 /* ------------------------------------------------------------------ */
@@ -778,7 +783,7 @@ properly.
 }
 
 /* ------------------------------------------------------------------ */
-/* e. Others
+/* f. Others
 /* ------------------------------------------------------------------ */
 
 /*  1. Clearing
