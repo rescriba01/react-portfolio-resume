@@ -212,7 +212,7 @@ ul#nav li.current a {
 /* ------------------------------------------------------------------ */
 
 #about {
-    background: #000524;
+    background: #191919;
     padding-top: 96px;
     padding-bottom: 66px;
     overflow: hidden;
@@ -234,7 +234,7 @@ ul#nav li.current a {
 
 #about p {
     line-height: 30px;
-    color: #fff;
+    color: #A6A6A6;
 }
 
 #about .profile-pic {
@@ -956,7 +956,7 @@ call-to-action .button {
     background: #191919;
     padding-top: 96px;
     padding-bottom: 102px;
-    color: #636363;
+    color: #A6A6A6;
 }
 
 #contact .section-head {
@@ -964,7 +964,7 @@ call-to-action .button {
 }
 
 #contact a, #contact a:visited {
-    color: #0762f9;
+    color: #fe6928;
 }
 
 #contact a:hover, #contact a:focus {
@@ -996,7 +996,7 @@ call-to-action .button {
 
 #contact h4 {
     font: 16px/24px 'opensans-bold', sans-serif;
-    color: #EBEEEE;
+    color: #fe6928;
     margin-bottom: 6px;
 }
 
@@ -1018,7 +1018,7 @@ call-to-action .button {
 #contact label {
     font: 15px/24px 'opensans-bold', sans-serif;
     margin: 12px 0;
-    color: #EBEEEE;
+    color: #fe6928;
     display: inline-block;
     float: left;
     width: 26%;
@@ -1064,7 +1064,7 @@ call-to-action .button {
 }
 
 #contact span.required {
-    color: #0762f9;
+    color: #A6A6A6;
     font-size: 13px;
 }
 
