@@ -130,6 +130,12 @@
         "category": "Gunshot Detection Solutions",
         "image": "shotspotter-home.png",
         "url": "https://www.shotspotter.com/"
+      },
+      {
+        "title": "Roberto Clemente Tribute",
+        "category": "One-page static site with interactive timeline",
+        "image": "static-tribute.jpg",
+        "url": "https://rescriba01.github.io/tribute/"
       }
     ]
   }
