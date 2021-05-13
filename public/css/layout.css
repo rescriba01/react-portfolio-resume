@@ -387,7 +387,6 @@ ul#nav li.current a {
     border-radius: 0px;
 }
 
-/*
 .git {
   	-moz-animation: git 2s ease;
   	-webkit-animation: git 2s ease;
@@ -473,7 +472,7 @@ ul#nav li.current a {
 @-webkit-keyframes mongodb {
   0%   { width: 0px;  }
   100% { width: 80%;  }
-}  */
+}
 
 /* ------------------------------------------------------------------ */
 /* e. Portfolio Section
