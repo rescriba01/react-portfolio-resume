@@ -88,24 +88,24 @@
     ],
     "skills": [
       {
-        "name": "Python",
-        "level": "78%"
-      },
-      {
-        "name": "ReactJs",
-        "level": "45%"
+        "name": "CSS",
+        "level": "90%"
       },
       {
         "name": "JavaScript",
         "level": "70%"
       },
       {
-        "name": "CSS",
-        "level": "90%"
+        "name": "Python",
+        "level": "78%"
       },
       {
         "name": "PHP",
         "level": "60%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "45%"
       },
       {
         "name": "C#",
